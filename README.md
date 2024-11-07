@@ -1,4 +1,5 @@
 # this repo is now maintenance only; please develop a fork || use the mrq repo if you have large features to submit
+_This repo is set to match the grammar of the Indonesian language (Bahasa Indonesia)._
 
 **NOTICE**: this repo is not endorsed by @neonbjb
 
